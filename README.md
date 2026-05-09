@@ -1,8 +1,6 @@
 # ⚡ 980 INSTASCRAPE PRO ⚡
 
-![License](https://img.shields.io/badge/Status-Hacker--Grade-7C3AED?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-3.0_Pro-black?style=for-the-badge)
-![Tech](https://img.shields.io/badge/Powered_By-Instaloader-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/Status-ONLINE?style=for-the-badge)
 
 > **ENG**: An elite, monolithic scraping infrastructure designed for speed and stealth.  
 > **ITA**: Un'infrastruttura di scraping d'élite, progettata per velocità e discrezione.
