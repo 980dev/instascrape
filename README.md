@@ -1,8 +1,8 @@
 # ⚡ 980 INSTASCRAPE PRO ⚡
 
-![License](https://img.shields.io/badge/Status-WORKING-7C3AED?style=for-the-badge)
-
-
+![License](https://img.shields.io/badge/Status-Hacker--Grade-7C3AED?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.0_Pro-black?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Powered_By-Instaloader-orange?style=for-the-badge)
 
 > **ENG**: An elite, monolithic scraping infrastructure designed for speed and stealth.  
 > **ITA**: Un'infrastruttura di scraping d'élite, progettata per velocità e discrezione.
@@ -52,4 +52,17 @@ This tool is for research and data analysis purposes only. The author is not res
 *Questo strumento è per soli scopi di ricerca e analisi. L'autore non è responsabile per usi impropri. Rispetta i termini di servizio e le leggi sulla privacy.*
 
 ---
-*Developed with 💜 for the 980 Community.*
+
+## 📸 Screenshots
+
+### 🔒 Lock Screen
+![Lock Screen](screenshots/lockscreen.png)
+
+### 🎛️ Control Center GUI
+![Control Center GUI](screenshots/gui.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+---
+*Developed with 💜 for the GitHub Community.*
