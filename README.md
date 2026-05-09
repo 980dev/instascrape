@@ -1,13 +1,8 @@
 # ⚡ 980 INSTASCRAPE PRO ⚡
 
-> **ENG**: An elite, monolithic scraping infrastructure designed for speed and stealth.  
-> **ITA**: Un'infrastruttura di scraping d'élite, progettata per velocità e discrezione.
-
----
-
 ## 🇺🇸 English Presentation
 
-**980 InstaScrape Pro** is a high-end scraping ecosystem. It's not just a script: it's a monolithic portable application that fuses the raw power of [Instaloader](https://github.com/instaloader/instaloader) with a real-time interactive Dashboard and a custom Desktop Command Center.
+**980 InstaScrape Pro** is a portable application that fuses the raw power of [Instaloader](https://github.com/instaloader/instaloader) with a real-time interactive Dashboard and a custom Desktop Command Center.
 
 ### 🛠️ Core Features
 *   **Shadow-Bypass Technology**: Advanced dynamic headers and session management to bypass "Login Required" and CDN restrictions.
@@ -26,7 +21,7 @@ Compile your own standalone EXE with one click:
 
 ## 🇮🇹 Presentazione Italiana
 
-**980 InstaScrape Pro** è un'infrastruttura di scraping d'élite. Non è un semplice script: è un'applicazione monolitica portatile che fonde la potenza di [Instaloader](https://github.com/instaloader/instaloader) con una Dashboard interattiva in tempo reale e un Command Center desktop personalizzato.
+**980 InstaScrape Pro** è un'applicazione portatile che fonde la potenza di [Instaloader](https://github.com/instaloader/instaloader) con una Dashboard interattiva in tempo reale e un Command Center desktop personalizzato.
 
 ### 🛠️ Punti di Forza
 *   **Shadow-Bypass Technology**: Gestione avanzata di header e sessioni per superare i blocchi "Login Required" e le restrizioni CDN.
